@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on migrations for https://thereplica.ru<br>🌱 I’m currently learning nestJs advanced techniques<br>💬 How to reach me: @antonio1010010
+🔭 I’m working for https://thereplica.ru<br>🌱 I’m currently learning nestJs advanced techniques<br>💬 How to reach me: @antonio1010010
 
 
 # 💻 Tech Stack:
