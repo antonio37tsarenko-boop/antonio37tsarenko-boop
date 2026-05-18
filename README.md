@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on https://neat-studio.ru<br>🌱 I’m currently learning advanced nestJs techniques<br>💬 How to reach me: @tsarenko0
+🔭 I’m working on https://neat-studio.ru<br>🌱 I’m currently learning advanced nestJs techniques<br>💬 How to reach me: @tsarenko0<br>🏆 Winner of hacaton PROD in Minsk
 
 
 # 💻 Tech Stack:
