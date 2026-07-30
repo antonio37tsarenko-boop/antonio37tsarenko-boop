@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on https://neat-studio.ru<br>🌱 I’m currently learning basic algorithms and data structures<br>🏆 Winner of hackathon PROD in Minsk<br>💬 How to reach me: @tsarenko0
+🔭 I’m working on https://wzx.by<br>🌱 I’m currently learning basic algorithms and data structures<br>🏆 Winner of hackathon PROD in Minsk<br>💬 How to reach me: @tsarenko0
 
 
 # 💻 Tech Stack:
